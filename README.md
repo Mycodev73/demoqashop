@@ -16,6 +16,7 @@ Pour lancer le test on a besoin d'installer les applications suivante:
 
 * Java 1.8
 * Maven
+* Chrome
 
 
 ### Comment lancer les tests:
