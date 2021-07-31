@@ -1,4 +1,4 @@
-## Tests Automatiques du site http://shop.demoqa.com avec le Framework Selenium Webdriver et TestNG
+## Tests Automatiques du site http://shop.demoqa.com avec le Framework Selenium Webdriver
 
 
 ### Technologies utilisées:
