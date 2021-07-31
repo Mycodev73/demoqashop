@@ -5,7 +5,7 @@
 
 * Selenium WebDriver
 * Java SE 1.8
-* Maven
+* Maven 3.8.1
 * TestNG
 * WebDriverManager
 * devskiller/jfairy
