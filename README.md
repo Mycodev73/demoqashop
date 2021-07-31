@@ -1,4 +1,4 @@
-## Tests Automatiques du site http://shop.demoqa.com
+## Tests Automatiques du site http://shop.demoqa.com avec le Framework Selenium Webdriver et TestNG
 
 
 ### Technologies utilisées:
@@ -11,6 +11,8 @@
 * devskiller/jfairy
 
 ### Prérequis
+
+Pour lancer le test on a besoin d'installer les applications suivante:
 
 * Java 1.8
 * Maven
